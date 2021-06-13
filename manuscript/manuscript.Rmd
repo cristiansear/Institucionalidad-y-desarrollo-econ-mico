@@ -26,7 +26,7 @@ figsintext        : yes
 figurelist        : no
 tablelist         : no
 footnotelist      : no
-lineno            : yes
+lineno            : no
 lang              : "en-US"
 class             : "doc"  # man / jou / doc
 output            : papaja::apa6_pdf
